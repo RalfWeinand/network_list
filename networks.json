@@ -11,15 +11,15 @@
       {
         "name": "Telos Germany",
         "protocol": "https",
-        "port": 8888,
-        "url": "95.216.18.207",
+        "port": 443,
+        "url": "apinode.telosgermany.io",
         "description": "HTTPS API"
       },
       {
         "name": "Telos Madrid",
-        "protocol": "https",
-        "port": 443,
-        "url": "api.telosmadrid.io",
+        "protocol": "http",
+        "port": 8888,
+        "url": "95.216.18.207",
         "description": "HTTPS API"
       }
     ]
